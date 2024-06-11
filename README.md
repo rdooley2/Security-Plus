@@ -13,5 +13,5 @@
 
 <h2>My Personal Experience:</h2>
 
-<h2>Certificate:</h2>
+<h2>Security+ Certificate:</h2>
 <img src="" alt="certification"/>
