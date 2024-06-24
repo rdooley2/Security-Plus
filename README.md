@@ -41,5 +41,3 @@ For a better explanation of what each of these topics covers, here is the full o
 Now that I had a rough idea of everything that would be covered on the exam, it was time to polish up. This is when I used practice exams to test my knowledge and iron out any kinks.  
 
 
-<h2>Security+ Certificate:</h2>
-<img src="" alt="certification"/>
