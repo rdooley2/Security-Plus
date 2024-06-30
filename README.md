@@ -14,8 +14,8 @@
 <h2>Resources Used:</h2>
 
 - <b>[Professor Messer's SY0-701 Youtube Series](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)</b>
-- <b>[Jason Dion's SY0-701 Practice Exams Set 1](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/?couponCode=LETSLEARNNOWPP)</b>
 - <b>[Professor Messer's SY0-701 Practice Exams](https://www.professormesser.com/sy0-701-success-bundle/)</b>
+- <b>[Jason Dion's SY0-701 Practice Exams](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/?couponCode=LETSLEARNNOWPP)</b>
 - <b>[Ben Truong's SY0-701 Notes](https://bentruong.gumroad.com/l/701)</b>
 - <b>[Anki](https://apps.ankiweb.net/)</b>
 
