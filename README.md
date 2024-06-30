@@ -14,8 +14,10 @@
 <h2>Resources Used:</h2>
 
 - <b>[Professor Messer's SY0-701 Youtube Series](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)</b>
-- <b>[Udemy's SY0-701 Practice Exams Set 1](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/?couponCode=LETSLEARNNOWPP)</b>
-- <b>[ExamCompass SY0-701 Practice Exams](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)</b>
+- <b>[Jason Dion's SY0-701 Practice Exams Set 1 (Udemy)](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/?couponCode=LETSLEARNNOWPP)</b>
+- <b>[Professor Messer's SY0-701 Practice Exams](https://www.professormesser.com/sy0-701-success-bundle/)</b>
+- <b>[Ben Truong's SY0-701 Notes](https://bentruong.gumroad.com/l/701)</b>
+- <b>[Anki](https://apps.ankiweb.net/)</b>
 
 
 <h2>My Personal Process/Experience:</h2>
@@ -23,7 +25,7 @@ The Security Plus Exam covers a variety of different cybersecurity processes, me
 <br />
 <br />
 <br />
-<br />
+<br /><b>
 Hello, I am currently studying for my SYN-701 Exam (Security Plus) offered by CompTIA. Please help tutor me by asking three questions for each exam objective. Try your best to word questions like they'd appear on the exam. Ask each multiple-choice question one at a time and prompt me for an answer. Once I answer, explain the correct answer and also explain why the incorrect answers are wrong in the context of the question. Also, before asking the questions, please list the ten objectives so that I know that you understand them. These are the objectives I studied today:
 <br />
 <br />
@@ -37,7 +39,24 @@ For a better explanation of what each of these topics covers, here is the full o
 <br />
 <br />
 <br />
+<br /></b>
+Now that I had a rough idea of everything that would be covered on the exam, it was time to test my new knowledge. I used a variety of different resources to accomplish this, primarily the practice exams offered by Jason Dion and Professor Messor. Each day for two weeks I would retake the previous day's exam, take an entirely new practice exam, review what I missed, and create/study flashcards on Anki. I also found notes from a content creator named Ben Truong. He used ChatGPT to summarize any topic and explain its relevance. I thought I could do something similar so I modified his prompt and used it for any topic I missed on the practice exams and also used it to generate a question and answers for my flashcard. Here is that prompt:
 <br />
-Now that I had a rough idea of everything that would be covered on the exam, it was time to polish up. This is when I used practice exams to test my knowledge and iron out any kinks.  
+<br />
+<br /><b>
+I am currently studying to get my CompTIA Security+. I want you to act as if you are my tutor preparing me for the test. I will ask you about many different concepts, and I want your answers to include a few things. 
+<br />
+<br />
+1. General overview of the concept 
+<br />
+<br />
+2. What I might need to know about it for the Security+ exam 
+<br />
+<br />
+3. A definition question relating to the topic definition with four multiple-choice answers
+<br />
+<br />
+<br /></b>
+
 
 
