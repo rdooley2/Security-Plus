@@ -1,4 +1,4 @@
-<h1>CompTIA Security+</h1>
+<h1>CompTIA Security+ SY0-701</h1>
 
 <h2>https://www.comptia.org/certifications/security</h2>
 
