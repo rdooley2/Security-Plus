@@ -14,10 +14,9 @@
 <h2>Resources Used:</h2>
 
 - <b>[Professor Messer's SY0-701 Youtube Series](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)</b>
-- <b>[Professor Messer's SY0-701 Practice Exams](https://www.professormesser.com/sy0-701-success-bundle/)</b>
+- <b>[Professor Messer's SY0-701 Notes and Practice Exams](https://www.professormesser.com/sy0-701-success-bundle/)</b>
 - <b>[Jason Dion's SY0-701 Practice Exams](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/?couponCode=LETSLEARNNOWPP)</b>
 - <b>[Ben Truong's SY0-701 Notes](https://bentruong.gumroad.com/l/701)</b>
-- <b>[Anki](https://apps.ankiweb.net/)</b>
 
 
 <h2>My Personal Process/Experience:</h2>
@@ -40,7 +39,7 @@ For a better explanation of what each of these topics covers, here is the full o
 <br />
 <br />
 <br /></b>
-Now that I had a rough idea of everything that would be covered on the exam, it was time to test my new knowledge. I used a variety of different resources to accomplish this, primarily the practice exams offered by Jason Dion and Professor Messor. Each day for two weeks I would retake the previous day's practice exam, take an entirely new practice exam, review what I missed, and create/study flashcards on Anki. I also found notes from a content creator named Ben Truong. He used ChatGPT to summarize any topic and explain its relevance. I thought I would do something similar so I modified his prompt and used it for any topic I missed on the practice exams and also used it to generate a question and answers for my flashcards. Here is that prompt:
+Now that I had a rough idea of everything that would be covered on the exam, it was time to test my new knowledge. I used a variety of different resources to accomplish this, primarily the practice exams offered by Jason Dion and Professor Messer. For over a week and a half I went over 9 practice exams and reviewed every single question extensively. Both of these resources are great because they provide reasoning for why each answer is right and why the other options are not. In the chance that I still did not understand the explanation, I would occasionally review Professor Messer's Videos and review. However, most of the time I utilized a method that I found to be more efficient with ChatGPT. I saw a video from a content creator named Ben Truong using it to summarize any topic and explain its relevance when he studied for the exam. I thought I would do something similar so used his prompt for any topic I missed on the practice exams that I still did not understand after reading the explanation. Here is that prompt:
 <br />
 <br />
 <br /><b>
@@ -53,11 +52,8 @@ I am currently studying to get my CompTIA Security+. I want you to act as if you
 2. What I might need to know about it for the Security+ exam 
 <br />
 <br />
-3. A definition question relating to the topic definition with four multiple-choice answers
-<br />
-<br />
 <br /></b>
-
+After a month of learning, studying, and reviewing, I finally felt confident enough to take the exam. 
 
 
 
