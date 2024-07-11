@@ -51,7 +51,7 @@ I am currently studying to get my CompTIA Security+. I want you to act as if you
 2. What I might need to know about it for the Security+ exam 
 <br />
 <br /></b>
-After a month of learning, studying, and reviewing, I finally felt confident enough to take the exam. I ended up reviewing different Performance Based Questions (PBQs) and Professor Messer's Note Sheet the night before just to calm my nerves. The test itself went very smoothly and in the end, I scored a 775/900. CompTIA also provided me with a score report which I was able to use to review the concepts that I did not do as well on. Overall, it was a very good experience and I am glad that I pushed myself to learn the material. Taking this test also helped me realize that I want to expand my learning by attempting the Network Plus Exam soon.
+After a month of learning, studying, and reviewing, I finally felt confident enough to take the exam. I ended up reviewing different Performance Based Questions (PBQs) and Professor Messer's Note Sheet the night before just to calm my nerves. The test itself went very smoothly and in the end, I scored a 775/900. CompTIA also provided me with a score report which I was able to use to review the concepts that I did not do as well on. Overall, it was a very good experience and I am glad that I pushed myself to learn the new material. Taking this test also helped me realize that I want to expand my learning by attempting the Network Plus Exam soon.
 
 <h2>Certificate:</h2>
 
